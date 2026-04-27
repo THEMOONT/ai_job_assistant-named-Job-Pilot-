@@ -1,0 +1,3 @@
+LATEST_PROFILE = {
+    "skills": []
+}
